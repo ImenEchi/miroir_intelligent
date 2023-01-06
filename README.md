@@ -3,7 +3,7 @@
 
 This projet is developed during Labs of the subject IoT Architecture
 
-By:
+By:<br>
 Imen echi<br>
 samaher diouani<br>
 Under-graduated students, 
